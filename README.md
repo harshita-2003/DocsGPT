@@ -1,4 +1,4 @@
-<h1 align="center" id="initial">
+<h1 align="center">
   DocsGPT  🦖
 </h1>
 
@@ -12,7 +12,7 @@
 Say goodbye to time-consuming manual searches, and let <strong><a href="https://docsgpt.arc53.com/">DocsGPT</a></strong> help you quickly find the information you need. Try it out and see how it revolutionizes your project documentation experience. Contribute to its development and be a part of the future of AI-powered assistance.
 </p>
 
-<div align="center">
+<div align="center" id="initial">
   
   <a href="https://github.com/arc53/DocsGPT">![example1](https://img.shields.io/github/stars/arc53/docsgpt?style=social)</a>
   <a href="https://github.com/arc53/DocsGPT">![example2](https://img.shields.io/github/forks/arc53/docsgpt?style=social)</a>
